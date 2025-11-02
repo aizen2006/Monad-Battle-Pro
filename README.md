@@ -83,7 +83,7 @@ VITE_BATTLE_MANAGER_ADDRESS=0x...
 2. Click "Add Network" or go to Settings → Networks
 3. Add the following network:
    - **Network Name**: Monad Blitz Testnet
-   - **RPC URL**: `https://rpc.blitz.monad.xyz`
+   - **RPC URL**: `https://testnet-rpc.monad.xyz`
    - **Chain ID**: `10143`
    - **Currency Symbol**: `MON`
    - **Block Explorer**: `https://explorer.blitz.monad.xyz`
